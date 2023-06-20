@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Sam, but you can call me Zyruks.
-🔭 I’m currently working with: @serudda at Indie Creators
+🔭 I’m currently working with: [@serudda](https://twitter.com/serudda) at [Indie Creators](https://github.com/Indie-Creator-Community)
 
 :heart: Loving this industry more and more.
 
