@@ -7,8 +7,6 @@
 - **Twon** – An AI-powered tool to help unleash creativity on Twitter. Experiment with tweet variations, formats, and save your faves!
 - **[Textsnap](https://www.textsnap.app/)** – A tool for instantly sharing text snippets with style. No more cluttered screenshots; keep it clean and easy to read.
 
-## 🛠️ Tech & Tools
-Astro · Next.js · Vue · TypeScript · Tailwind CSS · Prisma · tRPC · Figma · PostHog
 
 ## 🌐 Connect with Me!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zyruks)  
